@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120470507377",
+    "project_id": "connected-heart",
+    "storage_bucket": "connected-heart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120470507377:android:26a561f3aa2dbb8811b0d0",
+        "android_client_info": {
+          "package_name": "com.example.connectedheart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJrcbLLterwQKTXojDbCfFQHkKAi4cs1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/example/connectedheart/HomeActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/connectedheart/HomeActivity.java b/app/src/main/java/com/example/connectedheart/HomeActivity.java
+--- a/app/src/main/java/com/example/connectedheart/HomeActivity.java	
++++ b/app/src/main/java/com/example/connectedheart/HomeActivity.java	(date 1717161953387)
+@@ -29,6 +29,6 @@
+         startActivity(bt_RUN);
+     }
+ 
+-    
++
+ 
+ }
