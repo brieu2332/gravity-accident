@@ -55,7 +55,7 @@ public class SaidaActivity extends AppCompatActivity {
             }
         });
 
-        // Salvar no histórico
+        // Salvar no históricoo
         salvarNoHistorico(velocidade, forca, tempo, usarCapacete, massa, altura);
     }
 
