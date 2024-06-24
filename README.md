@@ -15,7 +15,7 @@ O diagrama abaixo representa a arquitetura do projeto:
 
 ## Como Usar
 
-Instruções sobre como usar o app, dando entrada das imformações de peso e altura do objeo e seguir apertando os botões para ver seu resultado.
+Instruções sobre como usar o app, dando entrada das informações de peso e altura do objeo e seguir apertando os botões para ver seu resultado.
 
 
 
