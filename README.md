@@ -5,13 +5,13 @@ um projeto direcionado para android implementado em java afim de mostrar imforma
 ## Vídeo de Demonstração
 
 Assista a uma breve explicação sobre o projeto no YouTube:
-[![Link para o vídeo no YouTube](https://img.youtube.com/vi/<ID_do_Video>/0.jpg)](https://www.youtube.com/watch?v=<ID_do_Video>)
+[![Link para o vídeo no YouTube]([https://img.youtube.com/vi/<ID_do_Video>/0.jpg)](https://www.youtube.com/watch?v=<ID_do_Video>](https://www.youtube.com/watch?v=MMTyoqdY-vk&t=6s))
 
 ## Diagrama do Projeto
 
 O diagrama abaixo representa a arquitetura do projeto:
 
-![Diagrama do Projeto](caminho/para/seu/diagrama.pdf)
+![Diagrama do Projeto]("C:\Users\gabri\Downloads\Diagrama_java.pdf")
 
 ## Como Usar
 
