@@ -9,7 +9,7 @@ Assista a uma breve explicação sobre a simulção no YouTube:
 
 ## Diagrama do Projeto
 
-O diagrama abaixo representa a arquitetura do projeto:
+O diagrama abaixo representa a arquitetura de classes do projeto:
 
 [Baixar Diagrama de Classes (PDF)](https://github.com/brieu2332/gravity-accident/blob/master/Diagrama_java.pdf)
 
