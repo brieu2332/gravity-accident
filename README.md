@@ -11,7 +11,7 @@ Assista a uma breve explicação sobre o projeto no YouTube:
 
 O diagrama abaixo representa a arquitetura do projeto:
 
-[Baixar Diagrama de Classes (PDF)]((https://github.com/brieu2332/gravity-accident/blob/master/Diagrama_java.pdf))
+[Baixar Diagrama de Classes (PDF)](https://github.com/brieu2332/gravity-accident/blob/master/Diagrama_java.pdf)
 
 ## Como Usar
 
