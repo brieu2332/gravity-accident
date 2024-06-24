@@ -7,11 +7,23 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+    <Switch
+        android:id="@+id/switchCapacete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EPI"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.629" />
+
     <Button
         android:id="@+id/bt_RUN"
         android:layout_width="143dp"
         android:layout_height="85dp"
-        android:onClick="SegundaTela"
+        android:onClick="iniciarSimulacao"
         android:text="RUN"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -20,15 +32,28 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.894" />
 
+    <Button
+        android:id="@+id/start_telaHistorico_button"
+        android:layout_width="174dp"
+        android:layout_height="38dp"
+        android:text="Histórico"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
     <EditText
         android:id="@+id/editTextNumberPeso"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="132dp"
+        android:layout_marginTop="196dp"
+        android:hint="Peso (kg)"
         android:ems="10"
         android:inputType="numberSigned"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.796"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -39,10 +64,10 @@
         android:text="Qual o peso do objeto?-"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.034"
+        app:layout_constraintHorizontal_bias="0.482"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.188" />
+        app:layout_constraintVertical_bias="0.208" />
 
     <EditText
         android:id="@+id/editTextNumberAltura"
@@ -50,12 +75,13 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="numberSigned"
+        android:hint="Altura (m)"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.766"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.357" />
+        app:layout_constraintVertical_bias="0.469" />
 
     <TextView
         android:id="@+id/textViewAltura"
@@ -64,10 +90,9 @@
         android:text="Qual o altura do objeto?-"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.011"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.369" />
+        app:layout_constraintVertical_bias="0.425" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
