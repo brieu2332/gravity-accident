@@ -4,7 +4,7 @@ um projeto direcionado para android implementado em java afim de mostrar imforma
 
 ## Vídeo de Demonstração
 
-Assista a uma breve explicação sobre o projeto no YouTube:
+Assista a uma breve explicação sobre a simulção no YouTube:
 [Vídeo da simulação](https://www.youtube.com/watch?v=MMTyoqdY-vk&t=6s)
 
 ## Diagrama do Projeto
